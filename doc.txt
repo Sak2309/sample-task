@@ -1,1 +1,4 @@
 logical area of git
+*commands
+step 1: ls.
+step 2: git init.
